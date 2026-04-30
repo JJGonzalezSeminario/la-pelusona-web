@@ -1,6 +1,6 @@
 'use client'
 
-import LaPelusona from '@/components/LaPelusona'
+import LaPelusona from '../components/LaPelusona'
 
 export default function Home() {
   return <LaPelusona />
