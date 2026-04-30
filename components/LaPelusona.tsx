@@ -137,7 +137,7 @@ const translations = {
     },
     join: {
       title: 'Join Our Community',
-      subtitle: 'We're looking for artists, chefs, and artisans',
+      subtitle: 'We are looking for artists, chefs, and artisans',
       form: {
         name: 'Full Name',
         email: 'Email Address',
